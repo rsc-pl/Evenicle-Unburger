@@ -1,0 +1,5 @@
+component	version	sha256	note
+Evenicle.ain	1.04	ee168f95d7acf0ccf61fe3208ca54b5e50741f0881ab40db0b67e1ebe55812a6	Supported English PC base
+Evenicle.ex	1.04	208a9cef095e7b89e70ae6d3ef8e752244315fa11a156776a883dfc9ab5d9271	Supported English PC base
+Evenicle.exe	1.04	f3ea44c35e83ddcfa9ebc9212fc0f70ee2e441159cfe0ffd05fba86735e36089	Reference executable
+EvenicleCG2.afa	1.04	d2bf9a2b497f15a1ee15249bb12a6b53179c0902fb21bc70e90cb35b815a5eef	Supported English PC graphics overlay base

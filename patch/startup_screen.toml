@@ -1,0 +1,12 @@
+# Editable startup-screen copy. Change this file, then run ./build.sh.
+# The version badge is read automatically from version.txt.
+
+title = "CLOSER TO A RE-TRANSLATION THAN A FIX PACK"
+intro = "The official English script was altered so extensively that restoring it meant reviewing the game line by line against the Japanese, not cherry-picking a handful of bad translations."
+body = "Large parts of the script were retranslated outright; elsewhere, the English was changed only where it drifted from the original."
+bullets = [
+  "Mistranslations, omissions, altered jokes, characterization and missing scene details restored",
+  "Terminology and cultural references brought back in line with the Japanese",
+  "Honorifics and Japanese name order restored",
+]
+footer = "Unofficial fan patch  •  English PC release 1.04"

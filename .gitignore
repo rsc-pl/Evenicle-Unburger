@@ -1,0 +1,29 @@
+# Machine-local project state and captured game files.
+.local/
+
+# Generated build/release output.
+/evenicle-builder
+/bin/
+output/
+release/
+
+# Game/archive binaries should never be committed from a local installation.
+*.ain
+*.ex
+*.afa
+*.ald
+*.exe
+*.zip
+*.7z
+
+
+# Local environment/editor noise.
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
